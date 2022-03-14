@@ -1,7 +1,15 @@
 .App {
   text-align: center;
 }
-
+.TopBar{
+  height: 64px;
+  display: flex;
+  box-shadow: 0px 0px 5px grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 4rem;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
